@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 350px;
+    height: 350px;
+    padding-top: 40px;
+    margin-top: 200pt;
+    justify-content: center;
+    border: 2px solid rgb(48, 2, 33);
+    border-radius: 7px;
+    box-shadow: rgb(37, 50, 53);
+}
+body{
+    background-image: url(360_F_770634476_J6Z6bpRF18WGcyLd70TplXj635V2v0iN.jpg);
+    overflow: hidden;
+    background-size: cover;
+}
+input{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 20px;
+    font-size: medium;
+    background: rgb(216, 215, 213);
+    text-align: center;
+    text-shadow: 3px;
+    border: rgb(206, 198, 198);
+    border-radius: 5px;
+    width: 216px;
+    padding: 6px;
+    color: cyan;
+    box-sizing: border-box;
+}
+input:hover{
+    background-color: rgb(255, 255, 255);
+}
+label{
+   font-family: fantasy;
+   font-weight: 200px;
+   font-style: oblique;
+   color: rgb(126, 6, 72);
+   text-shadow: 4px;
+   text-align: center;
+   justify-content: center;
+}
+label:hover{
+    color: rgb(78, 20, 54);
+}
+i{
+    color: rgb(51, 4, 41);
+}
+i:hover{
+    color: rgb(132, 4, 136);
+}
+h1{
+    color: rgb(68, 2, 43);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: 300px;
+   font-style: inherit;
+   text-shadow: 7px;
+   text-align: center;
+}
+h1:hover{
+       color: rgb(122, 11, 133);
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 50px;
+    text-decoration: solid;
+    text-align: center;
+    color: rgb(172, 116, 144);
+    text-rendering: geometricPrecision;
+}
+a{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(119, 4, 139);
+    text-decoration: solid;
+    text-shadow: 6px;
+}
+a:hover{
+    color: rgb(243, 187, 233);
+}
+button{
+    padding: 4px;
+    width: 150px;
+    border: 2px solid rgb(87, 57, 70);
+    border-radius: 6px;
+    background-color: rgb(122, 10, 72);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400px;
+    font-style: oblique;
+    font-size: medium;
+    color: rgb(26, 5, 17);
+}
+button:hover{
+    background-color: rgb(177, 92, 156);
+}
